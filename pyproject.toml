@@ -1,7 +1,7 @@
 [project]
-name = "rag-udemy"
+name = "rag"
 version = "0.1.0"
-description = "Add your description here"
+description = "Learning RAG"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
@@ -14,6 +14,7 @@ dependencies = [
     "langchain-groq>=1.0.0",
     "langchain-openai>=1.0.1",
     "notebook>=7.4.7",
+    "openpyxl>=3.1.5",
     "pandas>=2.3.3",
     "pymupdf>=1.26.5",
     "pypdf>=6.1.3",
